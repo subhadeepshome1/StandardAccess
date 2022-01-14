@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545134024442",
+    "project_id": "funcapp-618c8",
+    "storage_bucket": "funcapp-618c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545134024442:android:61424ff9054b9be401db43",
+        "android_client_info": {
+          "package_name": "com.function_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545134024442-30mua5o5032n0bkcdg5lss3bnit0snbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZ03VrWs3t8rx0iWG0ll_4_l32GzeBrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545134024442-30mua5o5032n0bkcdg5lss3bnit0snbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
